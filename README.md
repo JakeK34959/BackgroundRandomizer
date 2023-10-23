@@ -4,7 +4,7 @@ Theme background randomizer for clearvision themes
 ## Setup
 
 ### Step 1: Install Clearvision
-Download and install the latest version of ClearVision from (here)[https://betterdiscord.app/theme/ClearVision] 
+Download and install the latest version of ClearVision from https://betterdiscord.app/theme/ClearVision
 Note: This plugin will most likely not work with anything other than ClearVision
 
 ### Step 2: Install the plugin
@@ -24,4 +24,4 @@ First find and copy the full file path to the ClearVision theme file it should b
 By default this plugin uses a delay of 30 minutes if you'd like to change this delay to a different amount of time go to line 9 ```const delay_min = 30``` and change the 30 to another mount and keep in mind that it must be in minutes. 
 
 
-If you enjoy this plugin, please consider donating: paypal.me/jakem34959
+If you enjoy this plugin, please consider donating: https://www.paypal.com/paypalme/jakem34959
