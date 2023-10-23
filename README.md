@@ -1,4 +1,4 @@
-# ThemeRandomizer
+# Background Randomizer
 Theme background randomizer for clearvision themes
 
 ## Setup
