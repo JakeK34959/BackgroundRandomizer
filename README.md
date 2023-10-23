@@ -22,3 +22,6 @@ First find and copy the full file path to the ClearVision theme file it should b
 
 ### Step 6: Set delay (Optional)
 By default this plugin uses a delay of 30 minutes if you'd like to change this delay to a different amount of time go to line 9 ```const delay_min = 30``` and change the 30 to another mount and keep in mind that it must be in minutes. 
+
+
+If you enjoy this plugin, please consider donating: paypal.me/jakem34959
