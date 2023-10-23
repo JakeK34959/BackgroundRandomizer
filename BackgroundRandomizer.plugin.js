@@ -4,6 +4,7 @@
  * @authorId 249963806589976587
  * @version MK.1
  * @description Randomizes the background URL for the theme
+ * @donate paypal.me/jakem34959
  */
 const fs = require('fs');
 const delay_min = 30 //This sets the time delay, currently it's set to 30 min
